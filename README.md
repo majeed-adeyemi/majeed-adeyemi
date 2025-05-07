@@ -1,4 +1,4 @@
-Welcome to my page, I am Majeed, a Full Stack Software Engineer and Portfolio Manager 👋
+Welcome to my page, I am Majeed, a Software Engineer and Portfolio Manager 👋
 
 - 🔭 I’m currently working on softwares to revolutionalize the trading industry making growing wealth accessible to the common man!
 - 🌱 I’m currently learning Java
