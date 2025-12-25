@@ -17,15 +17,13 @@
 
 - 🌱 Actively learning **Python** to expand my quantitative and backend capabilities.
 
-<br/>
-
 - ⚙️ **Core Tech Stack:**  
   HTML5, CSS3, TailwindCSS, Bootstrap, JavaScript, TypeScript, React.js, Angular, Vue.js, Next.js, Node.js, Express.js, NestJS, Java, Spring Boot.
 
-<br/>
-
 - 👯 Open to collaborating on **Full Stack Development**, **Trading Platforms**, and **Portfolio Management Systems**.
+
 - 📫 Reach me at: **admin@majeedswings.co.uk**
+
 - ⚡ Fun fact: I genuinely enjoy staying on my computer even without an active project 😄
 
 ---
