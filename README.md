@@ -66,6 +66,7 @@
 ![Render](https://img.shields.io/badge/-Render-05122A?style=flat&logo=render)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws)&nbsp;
 
+<!--
 ---
 
 ## ⚙️ &nbsp;GitHub Analytics
@@ -86,6 +87,7 @@
 </a>
 <br/>
 
+-->
 ---
 
 ## 🤝🏻 &nbsp;Connect with Me
