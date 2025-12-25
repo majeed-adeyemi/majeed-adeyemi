@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I'm Majeed Adeyemi 
+  Hi, I'm Majeed Abolayo Adeyemi 
   <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35">
 </h1>
 
@@ -14,9 +14,16 @@
 ## 👋 Getting to Know Me
 
 - 🔭 Currently building **software solutions aimed at revolutionizing the trading industry**, making wealth growth accessible to everyday people.
+
 - 🌱 Actively learning **Python** to expand my quantitative and backend capabilities.
+
+<br/>
+
 - ⚙️ **Core Tech Stack:**  
   HTML5, CSS3, TailwindCSS, Bootstrap, JavaScript, TypeScript, React.js, Angular, Vue.js, Next.js, Node.js, Express.js, NestJS, Java, Spring Boot.
+
+<br/>
+
 - 👯 Open to collaborating on **Full Stack Development**, **Trading Platforms**, and **Portfolio Management Systems**.
 - 📫 Reach me at: **admin@majeedswings.co.uk**
 - ⚡ Fun fact: I genuinely enjoy staying on my computer even without an active project 😄
@@ -30,13 +37,18 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Express](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
+![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)&nbsp;
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot)&nbsp;
 
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=1572B6)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
@@ -45,6 +57,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
 
 ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=intellij-idea&logoColor=white)&nbsp;
@@ -52,6 +65,7 @@
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=flat&logo=macos&logoColor=F0F0F0)&nbsp;
 
 ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)&nbsp;
+![Render](https://img.shields.io/badge/-Render-05122A?style=flat&logo=render)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws)&nbsp;
 
 ---
@@ -76,10 +90,18 @@
 
 ---
 
-## 🤝🏻 &nbsp;Contact Me
+## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
   <a href="mailto:admin@majeedswings.co.uk">
     <img src="https://img.shields.io/badge/-admin@majeedswings.co.uk-D14836?style=flat&logo=Gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.instagram.com/majeedswings" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="https://www.tiktok.com/@majeedswings" target="_blank">
+    <img src="https://img.shields.io/badge/-TikTok-000000?style=flat&logo=tiktok&logoColor=white"/>
   </a>
 </p>
